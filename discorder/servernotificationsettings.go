@@ -1,8 +1,8 @@
 package discorder
 
 import (
-	"github.com/jonas747/discorder/ui"
-	"github.com/jonas747/discordgo"
+	"github.com/Quriosity0/discorder/ui"
+	"github.com/bwmarrin/discordgo"
 	"log"
 	"strconv"
 )
