@@ -14,7 +14,7 @@ Try the latest alpha version here: https://github.com/Quriosity0/discorder/relea
 
 You need go and git installed, and your gopath set up
 
-run this command: `go get -u github.com/Quriosity0/discorder/cmd/discorder`
+run this command: `go install github.com/Quriosity0/discorder/cmd/discorder`
 
 (-u: to force an update if you have a older version)
 
