@@ -3,7 +3,7 @@ package discorder
 
 import (
 	"container/list"
-	"github.com/jonas747/discordgo"
+	"github.com/bwmarrin/discordgo"
 	"log"
 	"sync"
 	"time"
