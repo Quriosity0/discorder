@@ -1,7 +1,7 @@
 package discorder
 
 import (
-	"github.com/jonas747/discorder/ui"
+	"github.com/Quriosity0/discorder/ui"
 )
 
 type CommandCategory struct {
