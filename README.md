@@ -1,7 +1,5 @@
 # Discorder
 
-![Ayy](https://dl.dropboxusercontent.com/u/17487167/screenshots/1476387883.png)
-
 Discorder is an interactive command line discord client.
 
 Join for updates, to suggest stuff, complain about stuff, or just talk about stuff
