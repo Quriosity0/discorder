@@ -2,8 +2,8 @@ package discorder
 
 import (
 	"encoding/json"
-	"github.com/jonas747/discorder/ui"
-	"github.com/jonas747/termbox-go"
+	"github.com/Quriosity0/discorder/ui"
+	"github.com/nsf/termbox-go"
 	"io/ioutil"
 	"log"
 	"path/filepath"
