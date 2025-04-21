@@ -1,7 +1,7 @@
 package discorder
 
 import (
-	"github.com/jonas747/discordgo"
+	"github.com/bwmarrin/discordgo"
 )
 
 type MessageCreateHandler interface {
