@@ -1,7 +1,7 @@
 package ui
 
 import (
-	"github.com/jonas747/discorder/common"
+	"github.com/Quriosity0/discorder/common"
 )
 
 type LayoutType int
