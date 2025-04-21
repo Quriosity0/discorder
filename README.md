@@ -14,7 +14,7 @@ Join for updates, to suggest stuff, complain about stuff, or just talk about stu
 
 #### Latest Alpha
 
-Try the latest alpha version here: https://github.com/jonas747/discorder/releases
+Try the latest alpha version here: https://github.com/lexffe/discorder/releases
 
 #### compiling from repo
 
