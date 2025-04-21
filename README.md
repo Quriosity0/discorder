@@ -20,7 +20,7 @@ Try the latest alpha version here: https://github.com/jonas747/discorder/release
 
 You need go and git installed, and your gopath set up
 
-run this command: `go get -u github.com/jonas747/discorder/cmd/discorder`
+run this command: `go get -u github.com/lexffe/discorder/cmd/discorder`
 
 (-u: to force an update if you have a older version)
 
@@ -66,7 +66,7 @@ Feature list:
 
 Run the executable and follow the instructions on screen
 
-Keybinds: See [doc/keybinds.md](https://github.com/jonas747/discorder/blob/master/doc/keybinds.md) for keybind configuration and [doc/defaults.md](https://github.com/jonas747/discorder/blob/master/doc/defaults.md) for defaults
+Keybinds: See [doc/keybinds.md](https://github.com/lexffe/discorder/blob/master/doc/keybinds.md) for keybind configuration and [doc/defaults.md](https://github.com/lexffe/discorder/blob/master/doc/defaults.md) for defaults
 
 Quick start:
 
