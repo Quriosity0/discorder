@@ -1,8 +1,8 @@
 package ui
 
 import (
-	"github.com/jonas747/discorder/common"
-	"github.com/jonas747/termbox-go"
+	"github.com/Quriosity0/discorder/common"
+	"github.com/nsf/termbox-go"
 	"sort"
 	"strings"
 )
