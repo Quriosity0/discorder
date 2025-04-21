@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/lexffe/discorder/discorder"
+	"github.com/Quriosity0/discorder/discorder"
 	"log"
 	"net/http"
 	_ "net/http/pprof"
