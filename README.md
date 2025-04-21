@@ -10,13 +10,13 @@ Discord server: https://discord.gg/0vYlUK2XBKlmxGrX
 
 Join for updates, to suggest stuff, complain about stuff, or just talk about stuff
 
-##Installing/Running
+## Installing/Running
 
 #### Latest Alpha
 
 Try the latest alpha version here: https://github.com/jonas747/discorder/releases
 
-####compiling from repo
+#### compiling from repo
 
 You need go and git installed, and your gopath set up
 
@@ -26,7 +26,7 @@ run this command: `go get -u github.com/jonas747/discorder/cmd/discorder`
 
 After that there should be a built executable in your $GOPATH/bin folder
 
-##Features
+## Features
 
 Note: Discorder still lacks a lot of features, so i wouldn't consider using it as a full replacement yet
 
