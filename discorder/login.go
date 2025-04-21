@@ -1,8 +1,8 @@
 package discorder
 
 import (
-	"github.com/jonas747/discorder/common"
-	"github.com/jonas747/discorder/ui"
+	"github.com/Quriosity0/discorder/common"
+	"github.com/Quriosity0/discorder/ui"
 	"log"
 )
 
