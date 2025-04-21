@@ -1,12 +1,8 @@
 # Discorder
 
-### I'm not actively developing this anymore, so don't expect any new features anytime soon
-
 ![Ayy](https://dl.dropboxusercontent.com/u/17487167/screenshots/1476387883.png)
 
 Discorder is an interactive command line discord client.
-
-Discord server: https://discord.gg/0vYlUK2XBKlmxGrX
 
 Join for updates, to suggest stuff, complain about stuff, or just talk about stuff
 
@@ -14,13 +10,13 @@ Join for updates, to suggest stuff, complain about stuff, or just talk about stu
 
 #### Latest Alpha
 
-Try the latest alpha version here: https://github.com/lexffe/discorder/releases
+Try the latest alpha version here: https://github.com/Quriosity0/discorder/releases
 
 #### compiling from repo
 
 You need go and git installed, and your gopath set up
 
-run this command: `go get -u github.com/lexffe/discorder/cmd/discorder`
+run this command: `go get -u github.com/Quriosity0/discorder/cmd/discorder`
 
 (-u: to force an update if you have a older version)
 
@@ -66,7 +62,7 @@ Feature list:
 
 Run the executable and follow the instructions on screen
 
-Keybinds: See [doc/keybinds.md](https://github.com/lexffe/discorder/blob/master/doc/keybinds.md) for keybind configuration and [doc/defaults.md](https://github.com/lexffe/discorder/blob/master/doc/defaults.md) for defaults
+Keybinds: See [doc/keybinds.md](https://github.com/Quriosity0/discorder/blob/master/doc/keybinds.md) for keybind configuration and [doc/defaults.md](https://github.com/Quriosity0/discorder/blob/master/doc/defaults.md) for defaults
 
 Quick start:
 
